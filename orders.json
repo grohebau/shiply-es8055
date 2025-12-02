@@ -1,0 +1,47 @@
+{
+  "S86492": {
+    "status": "En espera de pago",
+    "statusClass": "pendiente",
+    "sender": "Thomas Kehl, Zugspitzstraße 11, 85560 Ebersberg, Alemania",
+    "receiver": "Luis Mulero San José, Carrer d'Espinoi, 5, p04 4, Sarrià-Sant Gervasi, 08023 Barcelona, España",
+    "price": "5.482 €",
+    "description": "Fabricante: BMW<br>Modelo: R 90 S<br>Número de bastidor: 4090989<br>Primera matriculación: 07/1976<br>Kilometraje según el propietario anterior: 73.465 km<br>Potencia: 49 kW (67 CV)<br>Cilindrada: 898 cm³<br><br>La motocicleta está completamente funcional, sin caídas ni accidentes.<br>Se incluyen todos los papeles y llaves.",
+    "address": "Luis Mulero San José<br>Carrer d'Espinoi, 5, p04 4<br>Sarrià-Sant Gervasi, 08023 Barcelona<br>España<br>Teléfono: +34 610405429",
+    "documents": [
+      {
+        "name": "Nota de entrega",
+        "url": "docs/Delivery_note.pdf"
+      },
+      {
+        "name": "Contrato de compraventa",
+        "url": "docs/Purchase_Contract.pdf"
+      },
+      {
+        "name": "Factura",
+        "url": "docs/Invoice.pdf"
+      },
+      {
+        "name": "Términos y Condiciones",
+        "url": "docs/Terms.pdf"
+      }
+    ],
+    "orderDate": "02-12-2025",
+    "deliveryDate": "09-12-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
