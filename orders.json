@@ -1,6 +1,6 @@
 {
   "S86492": {
-    "status": "Preparación para el transporte",
+    "status": "En tránsito",
     "statusClass": "pendiente",
     "sender": "Thomas Kehl, Zugspitzstraße 11, 85560 Ebersberg, Alemania",
     "receiver": "Luis Mulero San José, Carrer d'Espinoi, 5, p04 4, Sarrià-Sant Gervasi, 08023 Barcelona, España",
@@ -26,12 +26,12 @@
       }
     ],
     "orderDate": "02.12.2025",
-    "deliveryDate": "11.12.2025, 15:30 horas",
+    "deliveryDate": "12.12.2025, 11:30 horas",
     "pickup": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
+      "street": "Chemin de Saint‑Eloi",
+      "postal_code": "33610",
+      "city": "Cestas",
+      "country": "Francia",
       "lat": "",
       "lng": ""
     },
